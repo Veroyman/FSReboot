@@ -1,0 +1,2 @@
+C:\Users\deisy\AppData\Local\Temporary Projects\FSReboot\bin\Debug\FSReboot.exe.config
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\bin\Debug\FSReboot.exe.config
