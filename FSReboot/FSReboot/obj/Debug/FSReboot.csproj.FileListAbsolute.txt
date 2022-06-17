@@ -1,2 +1,10 @@
 C:\Users\deisy\AppData\Local\Temporary Projects\FSReboot\bin\Debug\FSReboot.exe.config
 C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\bin\Debug\FSReboot.exe.config
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\bin\Debug\FSReboot.exe
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\bin\Debug\FSReboot.pdb
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.csprojResolveAssemblyReference.cache
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.Login.resources
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.Properties.Resources.resources
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.csproj.GenerateResource.Cache
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.exe
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.pdb

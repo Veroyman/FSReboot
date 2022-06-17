@@ -1,0 +1,22 @@
+Color Principal: #0A3143
+Complementario: #EFEFEF
+Panel Superior: WhiteSmoke
+
+Fuente Principal:
+Color: 239; 239; 239
+Fuente: Cascadia Code
+Tamaño de fuente: 10 Point
+Bold/Negrita: True
+
+Fuente Secundaria:
+#TextBox Fonts:
+Color: 70; 70; 70
+Fuente: Cascadia Code
+Tamaño de fuente: 10 Point
+Bold/Negrita: True
+
+Fuente Extra:
+Color: MenuHighlight
+Fuente: Cascadia Code SemiBold
+Tamaño de fuente: 9 Point
+Bold/Negrita: False
