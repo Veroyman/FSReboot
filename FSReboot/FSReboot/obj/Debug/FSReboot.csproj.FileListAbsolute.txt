@@ -8,3 +8,5 @@ C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.Pr
 C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.csproj.GenerateResource.Cache
 C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.exe
 C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.pdb
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.Registro_de_Prueba.resources
+C:\Users\deisy\Documents\GitHub\FSReboot\FSReboot\FSReboot\obj\Debug\FSReboot.Formularios_de_Usuarios.Loggeado.resources
